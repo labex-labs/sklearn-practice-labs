@@ -123,7 +123,7 @@ This course contains lots of labs for Sklearn, each lab is a small Sklearn proje
 |     110 | 📖 Gaussian Mixture Model Initialization Methods         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49135'>Start Lab</a>  |
 |     111 | 📖 Partial Dependence and Individual Conditional Expe... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71126'>Start Lab</a>  |
 |     112 | 📖 ROC With Cross Validation                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49273'>Start Lab</a>  |
-|     113 | 📖 Isotonic Regression with Scikit-Learn                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49172'>Start Lab</a>  |
+|     113 | 📖 Nonparametric Isotonic Regression with Scikit-Lear... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49172'>Start Lab</a>  |
 |     114 | 📖 Sparse Signal Regression With L1-Based Models         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49187'>Start Lab</a>  |
 |     115 | 📖 Non-Negative Least Squares Regression                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49228'>Start Lab</a>  |
 |     116 | 📖 Quantile Regression with Scikit-Learn                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49251'>Start Lab</a>  |
@@ -237,12 +237,12 @@ This course contains lots of labs for Sklearn, each lab is a small Sklearn proje
 |     224 | 📖 Gaussian Process Classification on Iris Dataset       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49140'>Start Lab</a>  |
 |     225 | 📖 Gaussian Process Classification                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49141'>Start Lab</a>  |
 |     226 | 📖 Gaussian Process Classification on XOR Dataset        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49142'>Start Lab</a>  |
-|     227 | 📖 Gaussian Process Regression                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49146'>Start Lab</a>  |
-|     228 | 📖 Gaussian Process Regression                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49145'>Start Lab</a>  |
+|     227 | 📖 Nonlinear Predictive Modeling Using Gaussian Proce... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49146'>Start Lab</a>  |
+|     228 | 📖 Fit Gaussian Process Regression Model                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49145'>Start Lab</a>  |
 |     229 | 📖 Gaussian Process Regression: Kernels                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49148'>Start Lab</a>  |
 |     230 | 📖 Spectral Clustering and Other Clustering Methods      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20811'>Start Lab</a>  |
-|     231 | 📖 Support Vector Machines                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20812'>Start Lab</a>  |
-|     232 | 📖 Credit Card Holder Risk Prediction                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300206'>Start Lab</a> |
+|     231 | 📖 Nonlinear Pattern Recognition Techniques              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20812'>Start Lab</a>  |
+|     232 | 📖 Credit Card Holder Risk Prediction (Lab)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300206'>Start Lab</a> |
 |     233 | 📖 Quickly Select Models With Cross Validation           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20807'>Start Lab</a>  |
 |     234 | 📖 Cross-Validation on Digits Dataset                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49099'>Start Lab</a>  |
 |     235 | 📖 Early Stopping of Gradient Boosting                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49150'>Start Lab</a>  |
@@ -269,10 +269,10 @@ This course contains lots of labs for Sklearn, each lab is a small Sklearn proje
 |     256 | 📖 Robust Covariance Estimation in Python                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49272'>Start Lab</a>  |
 |     257 | 📖 Covariance Matrix Estimation with Scikit-Learn        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71119'>Start Lab</a>  |
 |     258 | 📖 Manifold Learning with Scikit-Learn                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71115'>Start Lab</a>  |
-|     259 | 📖 Linear and Quadratic Discriminant Analysis            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49193'>Start Lab</a>  |
+|     259 | 📖 Discriminant Analysis Classification Algorithms       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49193'>Start Lab</a>  |
 |     260 | 📖 Plot Concentration Prior                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49093'>Start Lab</a>  |
 |     261 | 📖 Gaussian Mixture Models                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71114'>Start Lab</a>  |
-|     262 | 📖 Isotonic Regression with Scikit-Learn                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71112'>Start Lab</a>  |
+|     262 | 📖 Nonlinear Regression with Isotonic                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71112'>Start Lab</a>  |
 |     263 | 📖 Active Learning Withel Propagation                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49184'>Start Lab</a>  |
 |     264 | 📖 Bagging and Boosting Method                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20749'>Start Lab</a>  |
 |     265 | 📖 Hierarchical Clustering Exploration for Clustering    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20782'>Start Lab</a>  |
@@ -291,7 +291,7 @@ This course contains lots of labs for Sklearn, each lab is a small Sklearn proje
 |     278 | 📖 Ridge Regression and Lasso Regression                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20808'>Start Lab</a>  |
 |     279 | 📖 Classification of Car Safety Evaluation Dataset       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20756'>Start Lab</a>  |
 |     280 | 📖 Perceptron and Artificial Neural Network              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20802'>Start Lab</a>  |
-|     281 | 📖 Classifying Iris Using SVM                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300195'>Start Lab</a> |
+|     281 | 📖 Classifying Iris Using SVM (Lab)                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300195'>Start Lab</a> |
 
 ## More
 
