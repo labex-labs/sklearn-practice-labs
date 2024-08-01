@@ -230,7 +230,7 @@ This course contains lots of labs for Sklearn, each lab is a small Sklearn proje
 |     217 | 📖 Agglomerative Clustering on Digits Dataset            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49111'>Start Lab</a> |
 |     218 | 📖 OPTICS Clustering Algorithm                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49234'>Start Lab</a> |
 |     219 | 📖 Biclustering in Scikit-Learn                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71117'>Start Lab</a> |
-|     220 | 📖 Regularization Path of L1- Logistic Regression        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49204'>Start Lab</a> |
+|     220 | 📖 Regularization Path of L1-Logistic Regression         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49204'>Start Lab</a> |
 |     221 | 📖 Support Vector Regression                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49310'>Start Lab</a> |
 |     222 | 📖 Centroid Based Clustering                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20754'>Start Lab</a> |
 |     223 | 📖 Neural Network Models                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71113'>Start Lab</a> |
@@ -280,7 +280,7 @@ This course contains lots of labs for Sklearn, each lab is a small Sklearn proje
 |     267 | 📖 Tensorflow 2 Model Saving and Restoring               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20813'>Start Lab</a> |
 |     268 | 📖 Train Handwritten Digits Recognition Neural Networ... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20814'>Start Lab</a> |
 |     269 | 📖 Calculation of Ridge Regression Coefficient           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20753'>Start Lab</a> |
-|     270 | 📖 Mastering Linear Regression Fundamentals              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20799'>Start Lab</a> |
+|     270 | 📖 Linear Regression Fundamentals                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20799'>Start Lab</a> |
 |     271 | 📖 Logistic Regression Classification with Scikit-Lea... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20800'>Start Lab</a> |
 |     272 | 📖 Prediction for Beijing Housing Prices                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20805'>Start Lab</a> |
 |     273 | 📖 Density Based Clustering                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/20770'>Start Lab</a> |
