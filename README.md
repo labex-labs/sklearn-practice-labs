@@ -1,6 +1,6 @@
 # Sklearn Practice Labs
 
-[![Sklearn Practice Labs](https://cover-creator.appbot.io/sklearn-practice-labs.png)](https://labex.io/courses/sklearn-practice-labs)
+[![Sklearn Practice Labs](https://cover-creator.labex.io/sklearn-practice-labs.png)](https://labex.io/courses/sklearn-practice-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/sklearn-practice-labs)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                     |
-|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                     |
+|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 |     001 | 📖 Scikit-Learn Classifier Comparison                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-scikit-learn-classifier-comparison-49080'>Start Lab</a>                               |
 |     002 | 📖 Text Document Classification                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-text-document-classification-49117'>Start Lab</a>                                     |
 |     003 | 📖 Feature Discretization for Classification             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-feature-discretization-for-classification-49113'>Start Lab</a>                        |
@@ -208,8 +208,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     179 | 📖 Gradient Boosting Regularization                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-gradient-boosting-regularization-49154'>Start Lab</a>                                 |
 |     180 | 📖 Label Propagation Learning                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-label-propagation-learning-49186'>Start Lab</a>                                       |
 |     181 | 📖 Semi-Supervised Learning Algorithms                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-semi-supervised-learning-algorithms-71111'>Start Lab</a>                              |
-|     182 | 📖 Nonlinear Data Regression Techniques                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-nonlinear-data-regression-techniques-20804'>Start Lab</a>                                  |
-|     183 | 📖 Prediction for Bitcoin Price                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/ml-prediction-for-bitcoin-price-20806'>Start Lab</a>                                          |
+|     182 | 📖 Nonlinear Data Regression Techniques                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/sklearn-nonlinear-data-regression-techniques-20804'>Start Lab</a>                             |
+|     183 | 📖 Prediction for Bitcoin Price                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/sklearn-prediction-for-bitcoin-price-20806'>Start Lab</a>                                     |
 |     184 | 📖 Shrinkage Covariance Estimation                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-shrinkage-covariance-estimation-49096'>Start Lab</a>                                  |
 |     185 | 📖 Visualize High-Dimensional Data with MDS              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-visualize-high-dimensional-data-with-mds-49210'>Start Lab</a>                         |
 |     186 | 📖 Gaussian Mixture Model Covariances                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-gaussian-mixture-model-covariances-49134'>Start Lab</a>                               |
